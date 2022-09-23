@@ -18,4 +18,4 @@ This is a school project to learn electronics fundamental basics.
 
 ## Demonstration
 
-![Schema de Montage](/imgs/VID_20220923_122842.mp4 "Schema de Montage")
+[▶️ Demo](https://raw.githubusercontent.com/Charles-Chrismann/arduino/main/imgs/VID_20220923_122842.mp4 "Demo")
