@@ -12,9 +12,9 @@ This is a school project to learn electronics fundamental basics.
 > RFID RC522 module\
 > ESP32 4x4 keypad
 
-![Projet Creativ'lab](/imgs/Capture.jpg "Projet Creativ'lab")
-![Etapes du Projet](/imgs/Capture3.jpg "Etapes du Projet")
-![Schema de Montage](/imgs/Capture4.jpg "Schema de Montage")
+![Projet Creativ'lab](./imgs/Capture.jpg "Projet Creativ'lab")
+![Etapes du Projet](./imgs/Capture3.jpg "Etapes du Projet")
+![Schema de Montage](./imgs/Capture4.jpg "Schema de Montage")
 
 ## Demonstration
 
