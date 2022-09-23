@@ -2,7 +2,7 @@
 
 This is a school project to learn electronics fundamental basics.
 
-## collaborators
+## Collaborators
 [Lucie Ehrsam](https://github.com/Elicue "Lucie Ehrsam")
 [Tom Tamen](https://github.com/ByKrewz "Tom Tamen")
 [Charles Chrismann](https://github.com/Charles-Chrismann "Charles Chrismann")
